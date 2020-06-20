@@ -8,5 +8,5 @@ This is a companion repository for my [Kafka for Beginners](http://bit.ly/kafka-
 - Basics of Kafka
 - Twitter Producer2
 - ElasticSearch Consumer
-- Kafka Streams 101
+- Kafka Streams 101===
 - Kafka Connect Exam
